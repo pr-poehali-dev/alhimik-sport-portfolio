@@ -253,7 +253,7 @@ const Index = () => {
               <div className="relative">
                 <div className="absolute inset-0 bg-accent/10 blur-3xl rounded-full" />
                 <img
-                  src="https://cdn.poehali.dev/projects/8bf8ceb5-20c1-40cd-a241-91aadff4eb55/files/8f51abaf-d3b3-470c-ba72-6842d12a5df6.jpg"
+                  src="https://cdn.poehali.dev/projects/8bf8ceb5-20c1-40cd-a241-91aadff4eb55/files/83f537f1-febc-4223-afde-df47e702ba7d.jpg"
                   alt="Premium brands"
                   className="relative rounded-2xl shadow-2xl w-full"
                 />
